@@ -29,24 +29,20 @@ Built with best-in-class technologies, it's deployable to Vercel with zero confi
 
 ## 📸 Screenshots
 
-### Authentication Flow
-![Signup](screenshots/Screenshot%202026-03-19%20202315.png)
-![Login](screenshots/Screenshot%202026-03-19%20202338.png)
-![Email Verification](screenshots/Screenshot%202026-03-19%20202358.png)
+![](screenshots/Screenshot%202026-03-19%20202315.png)
+![](screenshots/Screenshot%202026-03-19%20202338.png)
+![](screenshots/Screenshot%202026-03-19%20202358.png)
 
-### Dashboards
-![Home Role Selection](screenshots/Screenshot%202026-03-19%2020415.png)
-![Admin Dashboard](screenshots/Screenshot%202026-03-19%20203105.png)
-![Teacher Dashboard](screenshots/Screenshot%202026-03-19%20203255.png)
+![](screenshots/Screenshot%202026-03-19%2020415.png)
+![](screenshots/Screenshot%202026-03-19%20203105.png)
+![](screenshots/Screenshot%202026-03-19%20203255.png)
 
-### Student Management
-![All Students](screenshots/Screenshot%202026-03-19%20203311.png)
-![Add Student](screenshots/Screenshot%202026-03-19%20203359.png)
-![Student Details](screenshots/Screenshot%202026-03-19%20203432.png)
+![](screenshots/Screenshot%202026-03-19%20203311.png)
+![](screenshots/Screenshot%202026-03-19%20203359.png)
+![](screenshots/Screenshot%202026-03-19%20203432.png)
 
-### Other
-![Test Results](screenshots/Screenshot%202026-03-19%20203542.png)
-![Developer Profile](screenshots/Screenshot%202026-03-19%20203558.png)
+![](screenshots/Screenshot%202026-03-19%20203542.png)
+![](screenshots/Screenshot%202026-03-19%20203558.png)
 
 ## 📁 Project Structure
 ```
