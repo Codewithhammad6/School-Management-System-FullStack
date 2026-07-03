@@ -1,7 +1,7 @@
 import express from 'express';
 import {
   addStudent,
-  addBulkStudents,
+  addBulkStudents, 
   getStudents,
   getStudentById, 
   updateStudent,
