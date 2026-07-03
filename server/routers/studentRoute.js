@@ -5,7 +5,7 @@ import {
   getStudents,
   getStudentById,
   updateStudent,
-  deleteStudent,
+  deleteStudent, 
   getStudentsByClass,
   searchStudents,
   getStudentStats,
