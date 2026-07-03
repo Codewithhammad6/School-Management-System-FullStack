@@ -3,7 +3,7 @@ import {
   addStudent,
   addBulkStudents,
   getStudents,
-  getStudentById,
+  getStudentById, 
   updateStudent,
   deleteStudent, 
   getStudentsByClass,
